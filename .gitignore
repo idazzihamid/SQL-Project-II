@@ -1,0 +1,17 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+
+# Ignore IDE/project files
+.vscode/
+.idea/
+
+# Ignore OS hidden folders
+__pycache__/
+node_modules/
